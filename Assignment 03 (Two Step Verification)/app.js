@@ -5,7 +5,7 @@ if (email === "abc@gmail.com") {
 
   if (typeof pass == "number") {
     let entry = true;
-    console.log(pass);
+    ;
     if (entry == true) {
       let NUM = Math.floor(Math.random() * 4 + 100);
       alert(NUM);
